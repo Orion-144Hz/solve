@@ -1,21 +1,18 @@
-```
 # Python compiled files
 *.pyc
-__pycache__/
 
 # Executables
-*.exe
+# *.exe (allow for analysis)
 
 # Binary files
-*.bin
+# *.bin (allow for analysis)
 
 # Temporary and extracted files
-decompiled_pyc/
-extracted_raw/
-pyz_extract/
-cover.exe
+# decompiled_pyc/ (keep for source recovery)
+# extracted_raw/ (keep for analysis)
+# pyz_extract/ (keep for analysis)
+# cover.exe (keep for reference)
 
 # Build/dist directories
 build/
 dist/
-```
