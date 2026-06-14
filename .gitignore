@@ -1,0 +1,21 @@
+```
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Executables
+*.exe
+
+# Binary files
+*.bin
+
+# Temporary and extracted files
+decompiled_pyc/
+extracted_raw/
+pyz_extract/
+cover.exe
+
+# Build/dist directories
+build/
+dist/
+```
